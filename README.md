@@ -212,6 +212,35 @@ http://localhost:8501
 
 ---
 
+*Designed and developed as an engineering analytics platform for digital construction quality management, Six Sigma process improvement, and data-driven decision support.*
 ## 🏆 Built for Data-Driven Construction Quality Excellence
 
 Transform concrete test data into actionable quality intelligence through ACI compliance analytics, Six Sigma methodology, and AI-powered engineering insights.
+
+---
+## 👩‍💻 Developer
+
+### Janice Benita F
+
+B.Tech Information Technology (Student)
+
+Specializing in:
+
+- Machine Learning
+- Computer Vision
+- Explainable AI (XAI)
+- Data Analytics
+- Quality Intelligence Systems
+
+### Related Projects
+
+- Explainable Endodontic AI for Root Canal Prediction (EndoXAI)
+- AI-Powered Concrete Crack Detection using Explainable AI (Grad-CAM)
+- Concrete Strength Analytics & Six Sigma Intelligence Platform
+
+### Connect
+
+- GitHub: https://github.com/Janicebenita
+- LinkedIn: https://linkedin.com/in/janice13
+
+---
