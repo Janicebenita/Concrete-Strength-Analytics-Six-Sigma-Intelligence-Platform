@@ -1,5 +1,4 @@
-# <img width="105" height="128" alt="images" src="https://github.com/user-attachments/assets/3ad5de56-a04b-4861-8ecc-d60a42fcdf99" />
- Concrete Strength Analytics & Six Sigma Intelligence Platform
+# 🏗️ Concrete Strength Analytics & Six Sigma Intelligence Platform
 
 An enterprise-grade analytics platform for Concrete Cube Compressive Strength Evaluation, ACI Acceptance Verification, and Six Sigma Quality Intelligence.
 
@@ -214,11 +213,5 @@ http://localhost:8501
 ---
 
 ## 🏆 Built for Data-Driven Construction Quality Excellence
-
-Transform concrete test data into actionable quality intelligence through ACI compliance analytics, Six Sigma methodology, and AI-powered engineering insights.
-
----
-
-## Built for Data-Driven Construction Quality Excellence
 
 Transform concrete test data into actionable quality intelligence through ACI compliance analytics, Six Sigma methodology, and AI-powered engineering insights.
