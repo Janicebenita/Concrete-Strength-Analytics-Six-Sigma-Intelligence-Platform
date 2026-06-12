@@ -58,27 +58,19 @@ This platform transforms conventional concrete quality monitoring into a data-dr
 
 ## 🏗️ System Architecture
 
-➡️ Data Upload
+The platform follows a structured analytics workflow that transforms raw concrete test data into actionable quality intelligence through automated validation, statistical analysis, Six Sigma evaluation, risk assessment, and executive reporting.
 
-⬇️
+![System Architecture](architecture.png)
 
-➡️ Validation Engine
+### Workflow Summary
 
-⬇️
+1. **Excel Upload** – Import concrete cube strength test data directly from Excel files.
+2. **Validation Engine** – Perform automated column validation, data cleansing, and format verification.
+3. **Quality Analytics** – Compute concrete strength KPIs, performance metrics, and engineering insights.
+4. **Six Sigma Engine** – Evaluate process capability using Cp, Cpk, Sigma Level, and quality variation metrics.
+5. **Risk Intelligence** – Detect non-compliance, abnormal trends, outliers, and potential quality risks.
+6. **Dashboard & Reports** – Present executive dashboards, analytics visualizations, KPI monitoring, and exportable reports.
 
-➡️ Quality Analytics
-
-⬇️
-
-➡️ Six Sigma Engine
-
-⬇️
-
-➡️ Risk Intelligence
-
-⬇️
-
-➡️ Dashboard & Reports
 
 ---
 
