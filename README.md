@@ -23,14 +23,14 @@ The Concrete Strength Analytics & Six Sigma Intelligence Platform enables qualit
 - Supplier and mix performance benchmarking
 - Executive dashboards and reporting
 ---
-## Problem Statement
+## 🎯 Problem Statement
 
 Construction projects generate large volumes of quality test data.
 Manual monitoring can lead to delayed corrective actions.
 
 This platform transforms raw testing data into actionable quality intelligence.
 ---
-## 🏗️ Project Highlights
+## ⭐ Project Highlights
 
 ✔ 20+ Quality KPIs
 ✔ Six Sigma Analytics
