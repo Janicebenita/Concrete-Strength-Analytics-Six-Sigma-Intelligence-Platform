@@ -30,14 +30,19 @@ Manual monitoring can lead to delayed corrective actions.
 
 This platform transforms raw testing data into actionable quality intelligence.
 ---
-## ⭐ Project Highlights
+## 📊 Platform Capabilities
 
 ✔ 20+ Quality KPIs
-✔ Six Sigma Analytics
-✔ Risk Intelligence Engine
-✔ Automated Validation Rules
-✔ Executive Dashboard
-✔ Export & Reporting
+
+✔ Automated ACI Compliance Checks
+
+✔ 6 Sigma Capability Metrics
+
+✔ Multi-Project Analytics
+
+✔ Executive Dashboard Reporting
+
+✔ Real-Time Quality Risk Identification
 ---
 ## 📈 Business Impact
 
