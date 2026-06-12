@@ -1,4 +1,4 @@
-# 🏗️ Concrete Strength Analytics & Six Sigma Intelligence Platform
+# <img src="logo.png" width="50"> Concrete Strength Analytics & Six Sigma Intelligence Platform
 
 An enterprise-grade analytics platform for Concrete Cube Compressive Strength Evaluation, ACI Acceptance Verification, and Six Sigma Quality Intelligence.
 
