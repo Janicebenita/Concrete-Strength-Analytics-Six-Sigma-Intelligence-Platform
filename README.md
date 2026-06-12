@@ -24,16 +24,19 @@ The Concrete Strength Analytics & Six Sigma Intelligence Platform enables qualit
 - Executive dashboards and reporting
 
 ---
+## 🏗️ System Architecture
+
+```text
 Data Upload
-     ↓
+      ↓
 Validation Engine
-     ↓
+      ↓
 Quality Analytics
-     ↓
+      ↓
 Six Sigma Engine
-     ↓
+      ↓
 Risk Intelligence
-     ↓
+      ↓
 Dashboard & Reports
 ---
 # 🖥️ Software Screenshots
