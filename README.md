@@ -23,7 +23,7 @@ The Concrete Strength Analytics & Six Sigma Intelligence Platform enables qualit
 
 Upload concrete cube strength logs directly from Excel. The platform automatically validates columns, identifies accepted formats, and prepares data for analytics.
 
-![Excel Upload Screen](images/upload-screen.png)
+![Excel Upload Screen](upload-screen.png)
 
 ---
 
@@ -31,7 +31,7 @@ Upload concrete cube strength logs directly from Excel. The platform automatical
 
 The executive dashboard provides real-time KPIs, strength trend analysis, Six Sigma capability assessment, ACI compliance monitoring, supplier benchmarking, and management-level quality intelligence.
 
-![Dashboard Page 1](images/dashboard-page1.jpg)
+![Dashboard Page 1](dashboard-page1.jpg)
 
 ---
 
@@ -39,7 +39,7 @@ The executive dashboard provides real-time KPIs, strength trend analysis, Six Si
 
 Advanced risk analytics including abnormality detection, process capability monitoring, opportunity identification, outlier tracking, and predictive quality insights.
 
-![Dashboard Page 2](images/dashboard-page2.jpg)
+![Dashboard Page 2](dashboard-page2.jpg)
 
 ---
 
