@@ -251,16 +251,22 @@ streamlit run app.py
 
 Open:
 
-```text
-## 🚀 Live Demo
 
-Experience the platform directly in your browser:
+## 🌐 Live Application
+
+Try the platform directly in your browser:
 
 👉 **[Launch Interactive Dashboard](https://huggingface.co/spaces/janicecodes/Concrete_strength_analysis_and_6_sigma_intelligence)**
 
 No installation required.
 
-```
+---
+
+## 🚀 Run the Application Locally
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
 
 ---
 
