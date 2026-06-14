@@ -19,7 +19,7 @@ Watch a short demonstration of the platform and explore its key features, analyt
 
 ▶ **Platform Demo Video**
 
-[Watch Demo Video](Screen%20Recording%202026-06-13%20235340.mp4)
+▶ [Watch Platform Demo](./platform-demo.mp4)
 
 ---
 
