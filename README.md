@@ -268,22 +268,27 @@ No installation required.
 pip install -r requirements.txt
 streamlit run app.py
 
+
+If you want a more professional ending section, use:
+
+```markdown
 ---
 
 ## 👩‍💻 Developed By
 
 ### Janice Benita F
 
-B.Tech Information Technology
+**B.Tech Information Technology**
 
-Areas of Interest:
+Area of Interest in:
 
-- Artificial Intelligence
-- Computer Vision
-- Explainable AI (XAI)
-- Data Analytics
-- Construction Quality Intelligence
-- Industrial AI Applications
+- 🤖 Artificial Intelligence
+- 👁️ Computer Vision
+- 🧠 Explainable AI (XAI)
+- 📊 Data Analytics
+- 🏗️ Construction Quality Intelligence
+- ⚙️ Industrial AI Applications
+
 
 ---
 
