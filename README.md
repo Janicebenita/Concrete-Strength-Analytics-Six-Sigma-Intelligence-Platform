@@ -10,6 +10,8 @@
 
 ### 🚀 Built With
 
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
 ![Pandas](https://img.shields.io/badge/Pandas-Analytics-green)
