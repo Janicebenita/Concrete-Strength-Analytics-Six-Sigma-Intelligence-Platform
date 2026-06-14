@@ -2,21 +2,27 @@
 
 An enterprise-grade analytics platform for Concrete Cube Compressive Strength Evaluation, ACI Acceptance Verification, and Six Sigma Quality Intelligence.
 
-🚀 AI-Powered Construction Quality Intelligence Platform
+## 🚀 AI-Powered Construction Quality Intelligence Platform
 
-📊 Real-Time Analytics
-📈 Six Sigma Monitoring
-⚠ Risk Intelligence
-🔍 Anomaly Detection
+📊 Real-Time Analytics  
+📈 Six Sigma Monitoring  
+⚠️ Risk Intelligence  
+🔍 Anomaly Detection  
 
-Live Demo | Architecture | Documentation
+**Live Demo | Architecture | Documentation**
+
+---
 
 ## 🎥 Platform Walkthrough
 
-Watch a short demonstration of the platform:
+Watch a short demonstration of the platform and explore its key features, analytics dashboards, Six Sigma evaluation engine, risk intelligence modules, and executive reporting capabilities.
 
-https://github.com/Janicebenita/Concrete-Strength-Analytics-Six-Sigma-Intelligence-Platform/blob/main/Screen%20Recording%202026-06-13%20235340.mp4
+▶ **Platform Demo Video**
+
+[Watch Demo Video](Screen%20Recording%202026-06-13%20235340.mp4)
+
 ---
+
 ## 📊 Overview
 
 The Concrete Strength Analytics & Six Sigma Intelligence Platform enables quality engineers, construction managers, QA/QC professionals, consultants, and project leadership teams to evaluate concrete strength performance using:
