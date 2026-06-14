@@ -267,11 +267,14 @@ No installation required.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
 
+Open locally:
 
-If you want a more professional ending section, use:
+```text
+http://localhost:8501
+```
 
-```markdown
 ---
 
 ## 👩‍💻 Developed By
@@ -280,25 +283,22 @@ If you want a more professional ending section, use:
 
 **B.Tech Information Technology**
 
-Area of Interest in:
+Areas of Interest:
 
-- 🤖 Artificial Intelligence
-- 👁️ Computer Vision
-- 🧠 Explainable AI (XAI)
-- 📊 Data Analytics
-- 🏗️ Construction Quality Intelligence
-- ⚙️ Industrial AI Applications
-
+- Artificial Intelligence
+- Computer Vision
+- Explainable AI (XAI)
+- Data Analytics
+- Construction Quality Intelligence
+- Industrial AI Applications
 
 ---
 
 ## 🌟 Related Projects
 
-🏥 EndoXAI – Explainable AI for Root Canal Treatment Prediction
-
-🏗️ AI-Powered Concrete Crack Detection System with Explainable AI
-
-📊 Concrete Strength Analytics & Six Sigma Intelligence Platform
+- 🏥 EndoXAI – Explainable AI for Root Canal Treatment Prediction
+- 🏗️ AI-Powered Concrete Crack Detection System with Explainable AI
+- 📊 Concrete Strength Analytics & Six Sigma Intelligence Platform
 
 ---
 
@@ -306,7 +306,7 @@ Area of Interest in:
 
 Construction professionals, QA/QC engineers, Six Sigma practitioners, and data analytics experts are invited to explore the platform and provide feedback.
 
-Your suggestions will help shape future versions of the system and contribute to the development of smarter construction quality management solutions.
+Your suggestions will help shape future versions of the system and contribute to smarter construction quality management solutions.
 
 ---
 
@@ -314,9 +314,9 @@ Your suggestions will help shape future versions of the system and contribute to
 
 Transforming concrete test data into engineering intelligence through analytics, Six Sigma methodology, and AI-driven decision support.
 
-### Connect
+---
+
+## 🔗 Connect
 
 - GitHub: https://github.com/Janicebenita
 - LinkedIn: https://linkedin.com/in/janice13
-
----
