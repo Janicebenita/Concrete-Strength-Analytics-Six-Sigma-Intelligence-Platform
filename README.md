@@ -252,7 +252,10 @@ streamlit run app.py
 Open:
 
 ```text
-http://localhost:8501
+[http://localhost:8501]
+
+(https://huggingface.co/spaces/janicecodes/Concrete_strength_analysis_and_6_sigma_intelligence)
+
 ```
 
 ---
