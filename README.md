@@ -10,15 +10,16 @@
 
 ### 🚀 Built With
 
-<div align="center">
+<p align="center">
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
-![Pandas](https://img.shields.io/badge/Pandas-Analytics-green)
-![Plotly](https://img.shields.io/badge/Plotly-Interactive-orange)
-![Six Sigma](https://img.shields.io/badge/SixSigma-Quality-purple)
-![ACI](https://img.shields.io/badge/ACI-Compliance-darkgreen)
+<img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit">
+<img src="https://img.shields.io/badge/Pandas-Analytics-150458?style=for-the-badge&logo=pandas">
+<img src="https://img.shields.io/badge/Plotly-Dashboard-3F4F75?style=for-the-badge&logo=plotly">
+<img src="https://img.shields.io/badge/Six_Sigma-Quality-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/ACI-Compliance-darkgreen?style=for-the-badge">
 
+</p>
 ---
 
 ## 🎥 Platform Walkthrough
