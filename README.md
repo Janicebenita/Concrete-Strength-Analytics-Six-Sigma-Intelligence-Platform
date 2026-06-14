@@ -9,7 +9,7 @@ An enterprise-grade analytics platform for Concrete Cube Compressive Strength Ev
 ⚠️ Risk Intelligence  
 🔍 Anomaly Detection  
 
-**Live Demo | Architecture | Documentation**
+## Live Demo | Architecture | Documentation**
 
 ---
 
