@@ -1,43 +1,55 @@
 # <img src="logo.png" width="50"> Concrete Strength Analytics & Six Sigma Intelligence Platform
 
-## 🏗️ Transforming Concrete Test Data into Actionable Quality Intelligence
+# 🏗️ Concrete Strength Analytics & Six Sigma Intelligence Platform
 
-An AI-powered analytics platform for **Concrete Cube Compressive Strength Evaluation, ACI Acceptance Verification, Six Sigma Process Capability Analysis, and Construction Quality Intelligence.**
+### 📊 AI-Powered Construction Quality Intelligence for Concrete Strength Evaluation, ACI Compliance & Six Sigma Analytics
 
-Designed for:
-
-- QA/QC Engineers
-- Construction Managers
-- Concrete Technologists
-- Consultants
-- Project Leadership Teams
-- Quality Excellence Professionals
+<p align="center">
+<img src="dashboard-page1.jpg" width="900">
+</p>
 
 ---
 
-## 🚀 AI-Powered Construction Quality Intelligence
+### 🚀 Built With
 
-📊 Real-Time Analytics
-
-📈 Six Sigma Monitoring
-
-✅ ACI Compliance Verification
-
-⚠️ Risk Intelligence
-
-🔍 Anomaly Detection
-
-📋 Executive Reporting
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
+![Pandas](https://img.shields.io/badge/Pandas-Analytics-green)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive-orange)
+![Six Sigma](https://img.shields.io/badge/SixSigma-Quality-purple)
+![ACI](https://img.shields.io/badge/ACI-Compliance-darkgreen)
 
 ---
 
 ## 🎥 Platform Walkthrough
 
-Watch a short demonstration of the platform:
-
-▶ **Platform Demo Video**
+▶ **Watch Demo Video**
 
 https://www.linkedin.com/posts/janice13_demo-file-for-concrete-strength-analytics-ugcPost-7471777343473332225-JoWa/
+
+---
+
+## 📌 Project Overview
+
+Most construction projects evaluate concrete quality based on whether cube strength meets the specified grade.
+
+However, passing strength alone does not guarantee process stability, consistency, or quality excellence.
+
+This platform transforms routine concrete cube testing data into actionable engineering intelligence by combining:
+
+✅ Concrete Strength Analytics
+
+✅ ACI Acceptance Verification
+
+✅ Six Sigma Process Capability Analysis
+
+✅ Statistical Quality Control
+
+✅ Risk Intelligence & Anomaly Detection
+
+✅ Executive Quality Dashboards
+
+The result is a data-driven quality intelligence system that helps engineers identify hidden risks, monitor process capability, and make informed quality decisions before issues impact construction performance.
 
 ---
 
