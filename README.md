@@ -15,9 +15,13 @@ An enterprise-grade analytics platform for Concrete Cube Compressive Strength Ev
 
 ## 🎥 Platform Walkthrough
 
-Click below to watch the complete platform demonstration.
+Watch a short demonstration of the Concrete Strength Analytics & Six Sigma Intelligence Platform, including data upload, ACI compliance verification, Six Sigma analysis, risk intelligence, and executive dashboards.
 
-[![Platform Demo](dashboard-page1.jpg)](./platform-demo.mp4)
+▶ **Platform Demo Video**
+
+https://www.linkedin.com/posts/janice13_demo-file-for-concrete-strength-analytics-ugcPost-7471777343473332225-JoWa/
+
+---
 
 ---
 
