@@ -10,8 +10,13 @@ An enterprise-grade analytics platform for Concrete Cube Compressive Strength Ev
 🔍 Anomaly Detection
 
 Live Demo | Architecture | Documentation
----
 
+## 🎥 Platform Walkthrough
+
+Watch a short demonstration of the platform:
+
+https://github.com/Janicebenita/Concrete-Strength-Analytics-Six-Sigma-Intelligence-Platform/blob/main/Screen%20Recording%202026-06-13%20235340.mp4
+---
 ## 📊 Overview
 
 The Concrete Strength Analytics & Six Sigma Intelligence Platform enables quality engineers, construction managers, QA/QC professionals, consultants, and project leadership teams to evaluate concrete strength performance using:
