@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Pandas-Analytics-150458?style=for-the-badge&logo=pandas">
 <img src="https://img.shields.io/badge/Plotly-Dashboard-3F4F75?style=for-the-badge&logo=plotly">
 <img src="https://img.shields.io/badge/Six_Sigma-Quality-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/ACI-Compliance-darkgreen?style=for-the-badge">
+
 
 </p>
 
