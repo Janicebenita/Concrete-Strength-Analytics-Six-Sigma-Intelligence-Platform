@@ -252,9 +252,13 @@ streamlit run app.py
 Open:
 
 ```text
-[http://localhost:8501]
+## 🚀 Live Demo
 
-(https://huggingface.co/spaces/janicecodes/Concrete_strength_analysis_and_6_sigma_intelligence)
+Experience the platform directly in your browser:
+
+👉 **[Launch Interactive Dashboard](https://huggingface.co/spaces/janicecodes/Concrete_strength_analysis_and_6_sigma_intelligence)**
+
+No installation required.
 
 ```
 
