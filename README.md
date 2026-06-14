@@ -15,11 +15,9 @@ An enterprise-grade analytics platform for Concrete Cube Compressive Strength Ev
 
 ## 🎥 Platform Walkthrough
 
-Watch a short demonstration of the platform and explore its key features, analytics dashboards, Six Sigma evaluation engine, risk intelligence modules, and executive reporting capabilities.
+Click below to watch the complete platform demonstration.
 
-▶ **Platform Demo Video**
-
-▶ [Watch Platform Demo](./platform-demo.mp4)
+[![Platform Demo](dashboard-page1.jpg)](./platform-demo.mp4)
 
 ---
 
