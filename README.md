@@ -1,7 +1,5 @@
 # <img src="logo.png" width="50"> Concrete Strength Analytics & Six Sigma Intelligence Platform
 
-# 🏗️ Concrete Strength Analytics & Six Sigma Intelligence Platform
-
 ### 📊 AI-Powered Construction Quality Intelligence for Concrete Strength Evaluation, ACI Compliance & Six Sigma Analytics
 
 <p align="center">
