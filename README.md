@@ -320,3 +320,9 @@ Transforming concrete test data into engineering intelligence through analytics,
 
 - GitHub: https://github.com/Janicebenita
 - LinkedIn: https://linkedin.com/in/janice13
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+See the LICENSE file for details.
